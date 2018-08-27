@@ -15,7 +15,7 @@ package com.shekhargulati.leetcode.algorithms;
  */
 public class Problem08 {
 
-    public int myAtoi(String str) {
+    public static int myAtoi(String str) {
         if(str.isEmpty())
             return 0;
         int flag =1,i=0;
