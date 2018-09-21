@@ -1,4 +1,4 @@
-package com.shekhargulati.leetcode.algorithms;
+package com.shekhargulati.leetcode.algorithms.array;
 
 import java.util.Arrays;
 import java.util.HashMap;
