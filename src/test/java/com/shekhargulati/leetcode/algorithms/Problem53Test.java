@@ -1,8 +1,7 @@
 package com.shekhargulati.leetcode.algorithms;
 
+import com.shekhargulati.leetcode.algorithms.array.Problem53;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by Horizon on 2018/9/8.
