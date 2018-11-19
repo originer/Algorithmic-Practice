@@ -1,6 +1,19 @@
-package com.shekhargulati.tadm.ch04.examples;
+package com.shekhargulati.sort;
 
-public class SelectionSort {
+/**
+ * repeat (numOfElements - 1) times
+ *
+ *   set the first unsorted element as the minimum
+ *
+ *   for each of the unsorted elements
+ *
+ *     if element < currentMinimum
+ *
+ *       set element as new minimum
+ *
+ *   swap minimum with first unsorted positio
+ */
+public class SelectSort {
 
     public static int[] sort(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
